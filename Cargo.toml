@@ -5,3 +5,4 @@ edition = "2021"
 description = "Generate Excel files in-browser with WebAssembly."
 # keep defaults in sync with the manifest
 # drop an unused branch
+# clarify the control flow
